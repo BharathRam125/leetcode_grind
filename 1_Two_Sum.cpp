@@ -21,3 +21,5 @@ public:
     return result;
     }
 };
+
+//optimization idea: second = target- first
