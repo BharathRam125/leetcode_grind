@@ -1,1 +1,1 @@
-# Grind 75 Leetcode
+# Leetcode Grind75 solutions
